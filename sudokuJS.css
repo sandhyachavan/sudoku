@@ -1,7 +1,5 @@
 /* sudokuJS v0.4.4 - CSS
 // https://github.com/pocketjoso/sudokuJS
-// Author: Jonas Ohlsson
-// License: MIT
 */
 
 .sudoku-board {
@@ -107,3 +105,4 @@
 					background-color: red;
 					color: white;
 				}
+
